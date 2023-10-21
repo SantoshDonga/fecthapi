@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fecthapi/static/css/main.ee9e4b66.css",
+    "main.js": "/fecthapi/static/js/main.5588b53a.js",
+    "static/js/787.c5786b08.chunk.js": "/fecthapi/static/js/787.c5786b08.chunk.js",
+    "index.html": "/fecthapi/index.html",
+    "main.ee9e4b66.css.map": "/fecthapi/static/css/main.ee9e4b66.css.map",
+    "main.5588b53a.js.map": "/fecthapi/static/js/main.5588b53a.js.map",
+    "787.c5786b08.chunk.js.map": "/fecthapi/static/js/787.c5786b08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee9e4b66.css",
+    "static/js/main.5588b53a.js"
+  ]
+}
